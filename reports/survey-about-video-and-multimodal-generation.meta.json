@@ -1,0 +1,24 @@
+{
+  "model": "google_genai:gemini-3.5-flash-lite",
+  "elapsed_s": 174.1,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "write_todos": 2,
+    "task": 5,
+    "ls": 1,
+    "read_file": 4,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 132006,
+    "output": 7632
+  },
+  "topic": "survey about video and multimodal generation",
+  "n_sources": 18,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

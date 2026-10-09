@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv:2203.02155",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "Training language models to follow instructions with human feedback",
+    "date": "2022-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "arXiv:2402.03300",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2605.12969",
+    "url": "https://huggingface.co/papers/2605.12969",
+    "title": "Revisiting Reinforcement Learning with Verifiable Rewards from a Contrastive Perspective",
+    "date": "2026-05-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2510.00977",
+    "url": "https://huggingface.co/papers/2510.00977",
+    "title": "It Takes Two: Your GRPO Is Secretly DPO",
+    "date": "2025-10-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2406.06592",
+    "url": "https://huggingface.co/papers/2406.06592",
+    "title": "Improve Mathematical Reasoning in Language Models by Automated Process Supervision",
+    "date": "2024-06-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2406.03816",
+    "url": "https://huggingface.co/papers/2406.03816",
+    "title": "ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search",
+    "date": "2024-06-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2505.04842",
+    "url": "https://huggingface.co/papers/2505.04842",
+    "title": "Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners With Verifiers",
+    "date": "2025-05-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2603.04304",
+    "url": "https://huggingface.co/papers/2603.04304",
+    "title": "V_1: Unifying Generation and Self-Verification for Parallel Reasoners",
+    "date": "2026-03-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "arXiv:2410.15115",
+    "url": "https://arxiv.org/abs/2410.15115",
+    "title": "On Designing Effective RL Reward at Training Time for LLM Reasoning",
+    "date": "2024-10-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "arXiv:2603.07084",
+    "url": "https://arxiv.org/abs/2603.07084",
+    "title": "Countdown-Code: A Testbed for Studying The Emergence and Generalization of Reward Hacking in RLVR",
+    "date": "2026-03-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2025.findings-emnlp.112",
+    "url": "https://aclanthology.org/2025.findings-emnlp.112.pdf",
+    "title": "The Hallucination Tax of Reinforcement Finetuning",
+    "date": "2025-11-01",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "20240510",
+    "url": "https://royalsocietypublishing.org/rsta/article/384/2315/20240510/480528/A-theory-of-inference-compute-scaling-reasoning",
+    "title": "A theory of inference compute scaling: reasoning through directed stochastic skill search",
+    "date": "2026-02-26",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "arXiv:2203.14465",
+    "url": "https://arxiv.org/abs/2203.14465",
+    "title": "STaR: Bootstrapping Reasoning With Reasoning",
+    "date": "2022-03-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2410.23912",
+    "url": "https://arxiv.org/html/2410.23912v2",
+    "title": "RL-STaR: Theoretical Analysis of Reinforcement Learning Frameworks for Self-Taught Reasoner",
+    "date": "2024-10-30",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "d039vk7l84j",
+    "url": "https://exa.ai/library/publication/d039vk7l84j",
+    "title": "Teaching Large Language Models to Reason with Reinforcement Learning",
+    "date": "2024-03-07",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2602.09000",
+    "url": "https://huggingface.co/papers/2602.09000",
+    "title": "iGRPO: Self-Feedback-Driven LLM Reasoning",
+    "date": "2026-02-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2503.07572",
+    "url": "https://huggingface.co/papers/2503.07572",
+    "title": "Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning",
+    "date": "2025-03-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2403.09629",
+    "url": "https://huggingface.co/papers/2403.09629",
+    "title": "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking",
+    "date": "2024-03-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2608.08020",
+    "url": "https://huggingface.co/papers/2608.08020",
+    "title": "Thought-Level Beam Search for Reasoning",
+    "date": "2024-08-11",
+    "source": "hf-search"
+  }
+]

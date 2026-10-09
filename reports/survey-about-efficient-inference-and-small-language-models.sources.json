@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "slms-pack-a-punch-survey-2025",
+    "url": "https://arxiv.org/html/2501.05465v1",
+    "title": "Small Language Models (SLMs) Can Still Pack a Punch: A Survey",
+    "date": "2025-01-08",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "demystifying-slms-edge-deployment-acl-2025",
+    "url": "https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2025.acl-long.718.pdf",
+    "title": "Demystifying Small Language Models for Edge Deployment (ACL 2025)",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2205.14135",
+    "url": "https://arxiv.org/abs/2205.14135",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+    "date": "2022-05-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2407.08608",
+    "url": "https://arxiv.org/abs/2407.08608",
+    "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+    "date": "2024-07-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2411.04965",
+    "url": "https://huggingface.co/papers/2411.04965",
+    "title": "BitNet a4.8: 4-bit Activations for 1-bit LLMs",
+    "date": "2024-11-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2506.13771",
+    "url": "https://huggingface.co/papers/2506.13771",
+    "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization",
+    "date": "2025-05-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2407.09527",
+    "url": "https://huggingface.co/papers/2407.09527",
+    "title": "BitNet b1.58 Reloaded: State-of-the-art Performance Also on Smaller Networks",
+    "date": "2024-06-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2405.14256",
+    "url": "https://arxiv.org/abs/2405.14256",
+    "title": "ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification",
+    "date": "2024-05-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2502.10424",
+    "url": "https://arxiv.org/abs/2502.10424",
+    "title": "QuantSpec: Self-Speculative Decoding with Hierarchical Quantized KV Cache",
+    "date": "2025-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2504.03661",
+    "url": "https://arxiv.org/abs/2504.03661",
+    "title": "MILLION: Mastering Long-Context LLM Inference Via Outlier-Immunized KV Product Quantization",
+    "date": "2025-03-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "vllm-vs-tgi-inference-serving-2025",
+    "url": "https://arxiv.org/html/2511.17593",
+    "title": "Comparative Analysis of Large Language Model Inference Serving Systems: vLLM vs TGI",
+    "date": "2025-11-01",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "exllama-vllm-llamacpp-production-2026",
+    "url": "https://bestllmfor.com/guides/exllama-vs-vllm-vs-llama-cpp/",
+    "title": "ExLlama vs vLLM vs llama.cpp: Production Compared",
+    "date": "2026-05-16",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "vllm-tgi-trtllm-h100-benchmarks-2026",
+    "url": "https://stackpulsar.com/blog/llm-inference-engine-comparison/",
+    "title": "vLLM vs TGI vs TensorRT-LLM on H100s: The Benchmarks",
+    "date": "2026-08-26",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "slm-survey-ranlp-2025",
+    "url": "https://aclanthology.org/2025.ranlp-1.93.pdf",
+    "title": "A Survey on Small Language Models (RANLP 2025)",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2503.13988",
+    "url": "https://huggingface.co/papers/2503.13988",
+    "title": "Empowering Smaller Models: Tuning LLaMA and Gemma with Chain-of-Thought for Ukrainian Exam Tasks",
+    "date": "2025-03-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2308.04623",
+    "url": "https://arxiv.org/abs/2308.04623",
+    "title": "Accelerating LLM Inference with Staged Speculative Decoding",
+    "date": "2023-08-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2505.19201",
+    "url": "https://huggingface.co/papers/2505.19201",
+    "title": "DREAM: Drafting with Refined Target Features and Entropy-Adaptive Cross-Attention Fusion for Multimodal Speculative Decoding",
+    "date": "2025-05-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2411.05966",
+    "url": "https://huggingface.co/papers/2411.05966",
+    "title": "Energy Efficient Protein Language Models: Leveraging Small Language Models with LoRA for Controllable Protein Generation",
+    "date": "2024-11-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "lmsys-chatbot-arena-2023",
+    "url": "https://www.lmsys.org/blog/2023-05-03-arena/",
+    "title": "Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings",
+    "date": "2023-05-03",
+    "source": "web"
+  }
+]

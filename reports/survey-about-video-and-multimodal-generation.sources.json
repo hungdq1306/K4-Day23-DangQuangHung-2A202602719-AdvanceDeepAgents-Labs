@@ -1,0 +1,146 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv:2204.03458",
+    "url": "https://arxiv.org/abs/2204.03458",
+    "title": "Video Diffusion Models",
+    "date": "2022-04-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "arXiv:2310.10647",
+    "url": "https://arxiv.org/abs/2310.10647",
+    "title": "A Survey on Video Diffusion Models",
+    "date": "2023-10-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2412.20404",
+    "url": "https://huggingface.co/papers/2412.20404",
+    "title": "Open-Sora: Democratizing Efficient Video Production for All",
+    "date": "2024-12-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2412.03603",
+    "url": "https://huggingface.co/papers/2412.03603",
+    "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+    "date": "2024-12-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "arXiv:2209.14792",
+    "url": "https://arxiv.org/abs/2209.14792",
+    "title": "Make-A-Video: Text-to-Video Generation without Text-Video Data",
+    "date": "2022-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2311.15127",
+    "url": "https://huggingface.co/papers/2311.15127",
+    "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+    "date": "2023-11-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2307.04725",
+    "url": "https://huggingface.co/papers/2307.04725",
+    "title": "AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning",
+    "date": "2023-07-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2408.06072",
+    "url": "https://huggingface.co/papers/2408.06072",
+    "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+    "date": "2024-08-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2402.17403",
+    "url": "https://huggingface.co/papers/2402.17403",
+    "title": "Sora Generates Videos with Stunning Geometrical Consistency",
+    "date": "2024-02-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "arXiv:2311.17982",
+    "url": "https://arxiv.org/abs/2311.17982",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "2023-11-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "EvalCrafter",
+    "url": "https://evalcrafter.github.io/",
+    "title": "EvalCrafter: Benchmarking and Evaluating Large Video Generation Models",
+    "date": "2023-10-18",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "AdaCache",
+    "url": "https://arxiv.org/html/2411.02397v2",
+    "title": "Adaptive Caching for Faster Video Generation with Diffusion Transformers",
+    "date": "2024-11-04",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "Safe-Sora",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/e5eaf67f3405be58cd12848a89cd8ace-Paper-Conference.pdf",
+    "title": "Safe-Sora & VideoShield: Copyright, Watermarking, and Safety Alignment",
+    "date": "2025-05-18",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "arXiv:2210.02303",
+    "url": "https://arxiv.org/abs/2210.02303",
+    "title": "Imagen Video: High Definition Video Generation with Diffusion Models",
+    "date": "2022-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2508.12969",
+    "url": "https://huggingface.co/papers/2508.12969",
+    "title": "Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation",
+    "date": "2025-08-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2511.18870",
+    "url": "https://huggingface.co/papers/2511.18870",
+    "title": "HunyuanVideo 1.5 Technical Report",
+    "date": "2025-11-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2411.02385",
+    "url": "https://huggingface.co/papers/2411.02385",
+    "title": "How Far is Video Generation from World Model: A Physical Law Perspective",
+    "date": "2024-11-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "Streamlined-Inference",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/18b0b4c788c8f2cf6c2943b989ad18c8-Paper-Conference.pdf",
+    "title": "Fast and Memory-Efficient Video Diffusion Using Streamlined Inference",
+    "date": "2024-12-10",
+    "source": "web"
+  }
+]
